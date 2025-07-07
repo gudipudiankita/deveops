@@ -1,0 +1,3 @@
+create a github account
+sign into the account
+create repository
